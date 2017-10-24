@@ -9,7 +9,7 @@ Chrome浏览器（Firefox也可以，其实IE啥的也可以 ），自行百度�
 
 http://chromedriver.storage.googleapis.com/index.html
 
-，下载后将解压到的chromedriver.exe放到 C:\Users\Windows\AppData\Local\Google\Chrome\Application目录下 
+，下载后将解压到的chromedriver.exe放到 C:\Users\你的用户名\AppData\Local\Google\Chrome\Application目录下 
 ##redis
 redis（一种算是数据库吧，用来存储一些临时数据，恰好解决了多线程问题），下载地址
 
